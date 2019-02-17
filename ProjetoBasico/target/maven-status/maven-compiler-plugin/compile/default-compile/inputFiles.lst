@@ -1,0 +1,17 @@
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/core/Propriedades.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/tests/ResumoTest.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/HomePage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/ContasPage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/MenuPage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/core/BaseTest.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/tests/RemoverMovimentacaoContaTest.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/tests/ContaTest.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/LoginPage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/ResumoPage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/pages/MovimentacaoPage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/core/DriverFactory.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/tests/SaldoTest.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/suites/SuiteGeral.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/core/BasePage.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/utils/DataUtils.java
+/home/van/eclipse-workspace/ProjetoBasico/src/main/java/br/pb/vaneyck/tests/MovimentacaoTest.java
